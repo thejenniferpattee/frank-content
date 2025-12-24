@@ -1,10 +1,10 @@
 # frank-content
 
-What it is: 
+**What it is:**
 
 A data-only repo for Frank content: screener item text, instrument metadata, psychoeducation taxonomy, and mapping rules.
 
-What’s real vs planned:
+**What’s real vs planned:**
 
 Real: 
 initial JSON placeholders and draft structure.
@@ -12,7 +12,7 @@ initial JSON placeholders and draft structure.
 Planned: 
 populate JSON with final content and add a one-click demo path.
 
-Not included on purpose:
+**Not included on purpose:**
 
 App code, any backend or UI implementation, and any real user data.
 
