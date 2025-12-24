@@ -1,1 +1,14 @@
-{}
+{
+"bundle_version": "0.1.0",
+"ui_copy_path": "content/ui_copy.json",
+"screen_flow_path": "content/screen_flow.json",
+"instruments": [
+"content/instruments/asrs6.json",
+"content/instruments/phq2.json",
+"content/instruments/gad2.json"
+],
+"psychoeducation": [
+"content/psychoeducation/taxonomy.json",
+"content/psychoeducation/mapping_rules.json"
+]
+}
