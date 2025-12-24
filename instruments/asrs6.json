@@ -1,1 +1,36 @@
-{}
+{
+"id": "asrs-6",
+"display_name": "ADHD (ASRS-6)",
+"timeframe": "past 6 months",
+"response_scale": {
+"id": "frequency_5",
+"labels": ["Never", "Rarely", "Sometimes", "Often", "Very Often"],
+"values": [0, 1, 2, 3, 4]
+},
+"items": [
+{
+"id": "asrs6_q1",
+"text": "How often do you have trouble completing the final details of a project -- once the challenging parts are done?"
+},
+{
+"id": "asrs6_q2",
+"text": "When you have to do a task that requires a lot of organization -- how often do you have a hard time getting everything in order?"
+},
+{
+"id": "asrs6_q3",
+"text": "How often do you have problems remembering appointments?"
+},
+{
+"id": "asrs6_q4",
+"text": "When you have something to do that requires a lot of thought -- how often do you delay getting started? Or avoid the task altogether."
+},
+{
+"id": "asrs6_q5",
+"text": "How often do you fidget – or squirm with your hands or feet – when you have to sit for a long time?"
+},
+{
+"id": "asrs6_q6",
+"text": "How often do you feel overly compelled to do things, like you were driven by a motor?"
+}
+]
+}
