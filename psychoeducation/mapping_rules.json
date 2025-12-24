@@ -1,1 +1,42 @@
-{}
+{
+"mapping_version": "0.1.0",
+"screen_flags_to_clusters": [
+{
+"flag": "Emotional Reactivity",
+"assign_clusters": ["cluster_1"],
+"primary_lessons": ["Rejection Sensitivity Dysphoria", "Emotional regulation and emotional spikes", "Emotional hangovers after feedback or conflict", "Emotional flooding during conflict"],
+"outcome_goal": "Reduce self blame and nervous system misattribution."
+},
+{
+"flag": "Task Avoidance or Incompletion",
+"assign_clusters": ["cluster_2"],
+"primary_lessons": ["Executive dysfunction versus motivation or intelligence", "Task initiation versus task completion", "Working memory limits", "Why small barriers stop momentum"],
+"outcome_goal": "Replace moral explanations with system design."
+},
+{
+"flag": "Inconsistency or Burnout",
+"assign_clusters": ["cluster_3"],
+"primary_lessons": ["Energy management versus time management", "Hyperfocus as a double edged sword", "Motivation crashes after novelty fades", "Delayed sleep phase and sleep dysregulation"],
+"outcome_goal": "Stabilize output without over exertion."
+},
+{
+"flag": "Academic or Cognitive Strain",
+"assign_clusters": ["cluster_4"],
+"primary_lessons": ["ADHD and academic writing", "Difficulty organizing thoughts", "Imposter syndrome in high achieving adults", "Anxiety caused by ADHD versus primary anxiety"],
+"outcome_goal": "Improve academic self efficacy."
+},
+{
+"flag": "Shame, Self Criticism, or Avoidance",
+"assign_clusters": ["cluster_5"],
+"primary_lessons": ["Shame cycles in ADHD", "Procrastination as emotion regulation", "Harsh inner critic development", "Grief after late diagnosis"],
+"outcome_goal": "Restore self trust and reduce avoidance loops."
+},
+{
+"flag": "Life Management Stress",
+"assign_clusters": ["cluster_6"],
+"primary_lessons": ["ADHD and money management", "ADHD and email or admin avoidance", "ADHD and lateness", "Decision fatigue"],
+"outcome_goal": "Reduce ambient stress load."
+}
+],
+"notes": "Next step is to define how Frank item responses trigger flags. Keep that logic in frank-app, and store only the mapping definitions here."
+}
