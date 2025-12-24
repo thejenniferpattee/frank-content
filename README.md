@@ -7,7 +7,7 @@ A data-only repo for Frank content: screener item text, instrument metadata, psy
 **What’s real vs planned:**
 
 Real: 
-initial JSON placeholders, draft structure.
+initial JSON placeholders and draft structure.
 
 Planned: 
 populate JSON with final content, add one-click demo path.
