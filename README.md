@@ -38,7 +38,7 @@ Draft content bundle populated from current Frank screenshots and current psycho
 
 ## Provenance
 
-Instrument names shown in UI include ASRS-6, PHQ-2, GAD-2. This repo stores the exact on-screen phrasing captured in screenshots. Scoring and clinical interpretation are handled separately and should never imply diagnosis.
+Instrument names shown in UI include ASRS-6, PHQ-2, GAD-2. Frank uses assessment responses to detect areas of friction, maps them onto a non-clinical taxonomy, and serves tier-appropriate content dynamically. This repo stores the exact on-screen phrasing captured in screenshots. Scoring and clinical interpretation are handled separately and should never imply diagnosis.
 
 ## How to review in 3 min
 
