@@ -1,1 +1,30 @@
-{}
+{
+"flow_version": "0.1.0",
+"screens": [
+{
+"id": "intro_attention",
+"type": "message",
+"text": "Perfect. Let's start with questions about attention and focus.\n\nThese questions are from the Adult ADHD Self-Report Scale.\nThink about how you've been feeling the past 6 months."
+},
+{
+"id": "instrument_asrs6",
+"type": "instrument",
+"instrument_id": "asrs-6"
+},
+{
+"id": "intro_mood",
+"type": "message",
+"text": "Next, a couple of questions about mood the last 2 weeks. These help us get a fuller picture of how you're doing."
+},
+{
+"id": "instrument_phq2",
+"type": "instrument",
+"instrument_id": "phq-2"
+},
+{
+"id": "instrument_gad2",
+"type": "instrument",
+"instrument_id": "gad-2"
+}
+]
+}
