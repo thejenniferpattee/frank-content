@@ -7,14 +7,14 @@ A data-only repo for Frank content: screener item text, instrument metadata, psy
 **What’s real vs planned:**
 
 Real: 
-initial JSON placeholders and draft structure.
+initial JSON placeholders, draft structure.
 
 Planned: 
-populate JSON with final content and add a one-click demo path.
+populate JSON with final content, add one-click demo path.
 
 **Not included on purpose:**
 
-App code, any backend or UI implementation, and any real user data.
+App code, any backend or UI implementation, any real user data.
 
 ## Purpose
 
