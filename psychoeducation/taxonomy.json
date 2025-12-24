@@ -1,1 +1,148 @@
-{}
+{
+"taxonomy_version": "0.1.0",
+"clusters": [
+{
+"id": "cluster_1",
+"name": "Nervous System and Emotional Regulation",
+"topics": [
+"Rejection Sensitivity Dysphoria",
+"Emotional regulation and emotional spikes",
+"Emotional hangovers after feedback or conflict",
+"Emotional flooding during conflict",
+"ADHD related anger and sudden irritability",
+"Sensory sensitivity and overstimulation",
+"Sensory seeking behaviors",
+"Emotional safety as a prerequisite for focus",
+"Social exhaustion even after positive interactions",
+"Difference between emotional dysregulation and mood disorders"
+]
+},
+{
+"id": "cluster_2",
+"name": "Executive Function and Task Friction",
+"topics": [
+"Executive dysfunction versus motivation or intelligence",
+"Task initiation versus task completion",
+"Task switching costs",
+"Working memory limits",
+"Difficulty estimating effort",
+"Difficulty prioritizing when everything feels urgent",
+"Why small barriers stop momentum",
+"Why multitasking increases errors and fatigue",
+"Why reminders stop working",
+"External structure versus internal discipline"
+]
+},
+{
+"id": "cluster_3",
+"name": "Time, Energy, and Momentum",
+"topics": [
+"Time blindness",
+"Energy management versus time management",
+"Motivation crashes after novelty fades",
+"Hyperfocus as a double edged sword",
+"Difficulty stopping once started",
+"Why breaks sometimes help and sometimes derail everything",
+"Burnout in high functioning ADHD",
+"Why routines collapse under stress",
+"Delayed sleep phase and sleep dysregulation",
+"Revenge bedtime procrastination"
+]
+},
+{
+"id": "cluster_4",
+"name": "Cognition, Learning, and Academic Life",
+"topics": [
+"ADHD and academic writing",
+"Difficulty organizing thoughts",
+"Goal setting when long term goals feel unreal",
+"Inconsistent performance and identity confusion",
+"Imposter syndrome in high achieving adults",
+"Why visual systems work better than verbal ones",
+"Inconsistent reward and learning",
+"Anxiety caused by ADHD versus primary anxiety",
+"Medication myths and realistic expectations",
+"Self trust rebuilding after academic struggles"
+]
+},
+{
+"id": "cluster_5",
+"name": "Avoidance, Shame, and Self Concept",
+"topics": [
+"Shame cycles in ADHD",
+"Procrastination as emotion regulation",
+"All or nothing thinking",
+"Harsh inner critic development",
+"Over explaining and over justifying",
+"People pleasing as a survival strategy",
+"Trust issues with authority or evaluation systems",
+"Grief after late diagnosis",
+"Difference between rest and avoidance",
+"Why trying harder stops working"
+]
+},
+{
+"id": "cluster_6",
+"name": "Daily Life and Adult Functioning",
+"topics": [
+"ADHD and money management",
+"Impulsive spending",
+"Avoidance of finances",
+"ADHD and email or admin avoidance",
+"ADHD and lateness",
+"Memory gaps for conversations and commitments",
+"ADHD in relationships",
+"Misinterpretations around effort and care",
+"Decision fatigue",
+"Designing low friction life systems"
+]
+}
+],
+"tiers": {
+"tier_1": {
+"name": "Immediate distress and dropout risk",
+"topics": [
+"Rejection Sensitivity Dysphoria",
+"Emotional regulation",
+"Executive dysfunction versus motivation",
+"Task initiation",
+"Time blindness",
+"Shame cycles",
+"Procrastination as emotion regulation",
+"Burnout and masking",
+"Academic writing initiation",
+"Self trust rebuilding"
+]
+},
+"tier_2": {
+"name": "Functional stability and consistency",
+"topics": [
+"Energy management",
+"External structure",
+"Task switching costs",
+"Working memory limits",
+"Motivation crashes",
+"Hyperfocus management",
+"Sleep regulation",
+"Prioritization when everything feels urgent",
+"Avoidance of admin and email",
+"Imposter syndrome"
+]
+},
+"tier_3": {
+"name": "Long term resilience and identity repair",
+"topics": [
+"Emotional safety and learning",
+"Relationship misunderstandings",
+"Money and impulse control",
+"Late diagnosis grief",
+"Trust with authority and systems",
+"Goal setting with ADHD",
+"Medication expectations",
+"Sensory regulation",
+"Designing friction reducing systems",
+"Identity integration"
+]
+}
+}
+}
