@@ -38,10 +38,10 @@ Draft content bundle populated from current Frank screenshots and current psycho
 
 ## Provenance
 
-Instrument names shown in the UI include ASRS-6, PHQ-2, and GAD-2. This repo stores the exact on-screen phrasing captured in screenshots. Scoring and clinical interpretation are handled separately and should never imply diagnosis.
+Instrument names shown in UI include ASRS-6, PHQ-2, GAD-2. This repo stores the exact on-screen phrasing captured in screenshots. Scoring and clinical interpretation are handled separately and should never imply diagnosis.
 
 ## How to review in 3 min
 
-1. Open content/bundle.json for the full content entrypoint.
-2. Open content/instruments/asrs6.json to see the item text.
-3. Open content/psychoeducation/taxonomy.json to see the content map.
+1. Open content/bundle.json for full content entrypoint.
+2. Open content/instruments/asrs6.json to see item text.
+3. Open content/psychoeducation/taxonomy.json to see content map.
