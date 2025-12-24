@@ -1,5 +1,4 @@
 # frank-content
-# frank-content
 
 What it is:
 A data-only repo for Frank content: screener item text, instrument metadata, psychoeducation taxonomy, and mapping rules.
