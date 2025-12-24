@@ -17,7 +17,9 @@ This repo stores Frank content as data so it stays editable and auditable withou
 ## Status
 
 Draft content bundle populated from current Frank screenshots and current psychoeducation outline.
-How to review in 3 minutes
+
+## How to review in 3 minutes
+
 1. Open content/bundle.json for the full content entrypoint.
 2. Open content/instruments/asrs6.json to see the item text.
 3. Open content/psychoeducation/taxonomy.json to see the content map.
