@@ -40,8 +40,20 @@ Draft content bundle populated from current Frank screenshots and current psycho
 
 Instrument names shown in UI include ASRS-6, PHQ-2, GAD-2. Frank uses assessment responses to detect areas of friction, maps them onto a non-clinical taxonomy, and serves tier-appropriate content dynamically. This repo stores the exact on-screen phrasing captured in screenshots. Scoring and clinical interpretation are handled separately and should never imply diagnosis.
 
+
 ## How to review in 3 min
 
 1. Open content/bundle.json for full content entrypoint.
 2. Open content/instruments/asrs6.json to see item text.
 3. Open content/psychoeducation/taxonomy.json to see content map.
+
+## Data & Privacy
+
+This repo is for research and prototype content only — **no real participant data** is included.  
+
+We follow safe practices:  
+- Only synthetic or example data is used.  
+- No personal identifiers, PHI, or sensitive info is stored.  
+- Local-first and privacy-conscious by design.  
+
+For the full details, see [DATA_POLICY.md](./DATA_POLICY.md) or contact: thejenniferpattee@gmail.com
