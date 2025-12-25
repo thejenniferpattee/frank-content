@@ -32,7 +32,7 @@ flowchart TD
   
 ### How it works
 
-- **Assessment answers** generate **flags** (difficulty areas).  
+- **Assessment answers ** generate **flags** (difficulty areas).  
 - Each **flag maps** to a **cluster of topics**.  
 - The app shows **primary lessons** for that flag.  
 - Every set of lessons has a **specific outcome goal**.  
